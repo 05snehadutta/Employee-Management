@@ -1,0 +1,21 @@
+@media screen and (max-width: 1024px){
+    .jadwal-inner{
+        display: block;
+    }
+    .jadwal-mid-img{
+        padding-top: 80px;
+    }
+    .jadwal-side-pic img{
+        position: relative;
+    }
+    .virus-pic{
+        bottom: 35px;
+    }
+
+}
+
+@media screen and (max-width: 992px){
+    .nav-link{
+        margin-right: 42px;
+    }
+}
